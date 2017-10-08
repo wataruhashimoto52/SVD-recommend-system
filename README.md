@@ -12,3 +12,6 @@
 <img src="https://latex.codecogs.com/gif.latex?\hat&space;{R}&space;=&space;U\Sigma&space;V^{T}" title="\hat {R} = U\Sigma V^{T}" />
 
 行列のランク数を下げることによって，実質的に似たユーザーをクラスタリングしたとみなして扱うことができるようになり，アイテムベースやユーザーベースの協調フィルタリングで問題であった，ほとんど何の映画も見ていないユーザーであっても，似たクラスタ（主成分）のユーザーを参照することができ，その結果として映画をレコメンドできる，ということになる．
+
+## Data
+Please download: http://grouplens.org/datasets/movielens/ 
