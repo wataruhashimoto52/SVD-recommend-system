@@ -8,8 +8,7 @@
 <img src="https://latex.codecogs.com/gif.latex?R&space;\approx&space;U\Sigma&space;V^{T}" title="R \approx U\Sigma V^{T}" />
 </div>
 
-この式において ≈ としているのは,特異値分解の際に行列のランクを任意の K に下げているためである.する
-と,K ランクの分解された行列によって,もとの行列 R の近似行列 Rˆ を作成することができる.  
+この式において ≈ としているのは,特異値分解の際に行列のランクを任意の K に下げているためである.すると,K ランクの分解された行列によって,もとの行列 R の近似行列 Rˆ を作成することができる.  
 
 <div align="center">
 <img src="https://latex.codecogs.com/gif.latex?\hat&space;{R}&space;=&space;U\Sigma&space;V^{T}" title="\hat {R} = U\Sigma V^{T}" />
